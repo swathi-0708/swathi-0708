@@ -9,7 +9,7 @@ Building toward data analytics and dashboards.
 - Hackathon projects in AI, simulation and security
 
 ## Projects-
-**[CyberStrix](https://github.com/swathi-0708/SIH26146-CyberStrix)**: SIH 2026 Bitcoin fraud detection (XGBoost + Isolation Forest, wallet graph, SHAP, Streamlit dashboard).
+- **[CyberStrix](https://github.com/swathi-0708/SIH26146-CyberStrix)**: SIH 2026 Bitcoin fraud detection (XGBoost + Isolation Forest, wallet graph, SHAP, Streamlit dashboard).
 - **[HackOHolics](https://github.com/swathi-0708/HackOHolics)**: resume matcher using keyword + semantic ranking with explainable scores.
 - **[2 Rabbits Bakes](https://break25.github.io/2rabbits-bakes/)**: freelance website .
 - **Exoplanet detection (ISRO BAH 2026)**: Python pipeline on TESS light curves.
